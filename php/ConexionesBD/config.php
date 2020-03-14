@@ -5,5 +5,5 @@
     define('HOST', 'localhost');//redireccion al localhost por dns hosting
     define('USER', 'miguel');//nombre de usuario
     define('PASS', 'clave');//contraseña
-    define('DBNAME', 'restaurante_TechnoFriends');//nombre de base de datos
+    define('DBNAME', 'restaurante_technofriends');//nombre de base de datos
 ?>
